@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Auto-Mates The Future of No-Code Digital Apprentices @IJCAI23
+title: Auto-Mates @IJCAI23
 ---
 # The first International Workshop 
 
