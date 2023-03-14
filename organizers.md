@@ -3,13 +3,14 @@ layout: page
 title: Organizers
 ---
 
-## Program Chairs
+## General Chairs
 - [Segev Shlomov](mailto:segev.shlomov1@ibm.com) - IBM Research, Israel
 - [Avi Yaeli](mailto:aviy@il.ibm.com) - IBM Research, Israel
 - [Xinyu Wang](mailto:xwangsd@umich.edu) - University of Michigan, USA
-- [Chenglong Wang](mailto:chenglong.wang@microsoft.com) - Microsoft Research. Redmond, USA
 - [Ronen Brafman](mailto:antonella.guzzo@unical.it) -  Ben-Gurion University, Israel
 
+## Committee Chair
+- [Chenglong Wang](mailto:chenglong.wang@microsoft.com) - Microsoft Research. Redmond, USA
 
 ## Program Committee (tentative)
 - Rishabh Singh (Google Brain)  
