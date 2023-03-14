@@ -4,32 +4,31 @@ title: Organizers
 ---
 
 ## Program Chairs
-- [Fabiana Fournier](mailto:fabiana@il.ibm.com) - IBM Research, Israel
-- [Lior Limonad](mailto:liorli@il.ibm.com) - IBM Research, Israel
-- [Massimiliano de Leoni](mailto:deleoni@math.unipd.it) - University of Padova, Italy
-- [Antonella Guzzo](mailto:antonella.guzzo@unical.it) - University of Calabria, Italy 
-- [Andrea Marrella](mailto:marrella@diag.uniroma1.it) - Sapienza University of Rome, Italy
-- [Pnina Soffer](mailto:spnina@is.haifa.ac.il) - Haifa University, Israel
+- [Segev Shlomov](mailto:segev.shlomov1@ibm.com) - IBM Research, Israel
+- [Avi Yaeli](mailto:aviy@il.ibm.com) - IBM Research, Israel
+- [Xinyu Wang](mailto:xwangsd@umich.edu) - University of Michigan, USA
+- [Chenglong Wang](mailto:chenglong.wang@microsoft.com) - Microsoft Research. Redmond, USA
+- [Ronen Brafman](mailto:antonella.guzzo@unical.it) -  Ben-Gurion University, Israel
+
 
 ## Program Committee (tentative)
-- Michele Ianni - University of Calabria, Italy
-- Avigdor Gal - Technion — Israel Institute of Technology, Israel
-- Segev Shlomov - IBM Research, Haifa
-- Vatche Ishakian - IBM Research, Cambridge, USA
-- Vinod Muthusamy - IBM Research, Canada
-- Francesco Fuggitti - Sapienza Univ Rome, Italy
-- Marlon Dumas - University of Tartu, Estonia
-- Jana-Rebecca Rehse - University of Mannheim, Germany
-- Rafael Accorsi - Accenture / University of Tartu, Estonia
-- Diego Calvanese - Free University of Bozen-Bolzano, Italy
-- Dirk Fahland - Eindhoven University of Technology, the Netherlands
-- Ingo Weber - TU Munich, Germany 
-- Yves Lesperance - York University, Toronto, Canada
-- Massimo Mecella - Sapienza Univ Rome, Italy
-- Matthias Thimm - FernUniversität in Hagen, Germany
-- Munindar Singh, North Carolina State University, USA
-- Yara Rizk - IBM Research, Cambridge, USA
-- Kartik Talamadupula - IBM Research, Cambridge, USA
-- Artem Polyvyanyy - The University of Melbourne, Australia
-- Giuseppe de Giacomo - University of Oxford, UK
-- Marco Montalli - Free University of Bozen-Bolzano, Italy
+- Rishabh Singh (Google Brain)  
+- Alex Polozov (Google X)  
+- Swarat Chadhuri (UT Austin)  
+- Eran Yahav (Technion)  
+- Nadia Polikapova (UC San Diego)  
+- Hela Peleg (Technion)  
+- Sergey Zeltyn (IBM Research)  
+- José Cambronero (Microsoft)  
+- Vu Le (Microsoft)  
+- Yan Chen (Virginia Tech)  
+- Elena Glassman (Harvard University)  
+- Tianyi Zhang (Purdue University)  
+- Hila Peleg (Technion)  
+- Rui Dong (University of Michigan)  
+- Yanju Chen (University of Santa Barbara)  
+- Xinyun Chen (Google)  
+- Po-Sen Huang (Google)  
+- Rotem Dror (University of Pennsylvania)  
+- Jiani Huang (University of Pennsylvania)  
+- Lior Limonad (IBM Research)
