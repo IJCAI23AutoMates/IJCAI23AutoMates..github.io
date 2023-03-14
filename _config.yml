@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: PMAI2023@IJCAI
+title: Auto-Mates@IJCAI23
 
 # Your name to show in the footer
-author: PMAI'23 Workshop
+author: Auto-Mates'23 Workshop
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -53,7 +53,7 @@ title-img: "/assets/img/pmain-logo-with-title.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "liorli@il.ibm.com"
+  email: "segev.shlomov1@ibm.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
