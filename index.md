@@ -1,23 +1,31 @@
 ---
 layout: home
-title: PMAI23 @IJCAI
+title: Auto-Mates: The Future of No-Code Digital Apprentices @IJCAI23
 ---
-## 2nd International Workshop on Process Management in the AI era
+## The first International Workshop on The Future of No-Code Digital Apprentices
 
 {: style="text-align: justify"}
-Process Management (PM) is a multidisciplinary field that combines insights from operations management, computer science, 
-and data science (cf. process mining). The rapid development of artificial intelligence (AI) techniques is leading to the creation of a new generation of information systems that can "augment" PM, making them more autonomous, adaptive, intelligent, and self-optimizing. Such systems are recently referred to as [AI-augmented BPM systems](https://doi.org/10.1145/3576047) (ABPMS). 
-These AI-empowered, trustworthy, and process-aware systems continuously reason and act on data within a set of constraints, 
-with the goal of adapting and improving one or more processes according to various indicators. 
-ABPMSs are the backbone necessary to realize the vision of the enterprise of the future, enabling organizations to gradually shift their process management, advancing along the [six levels of autonomous process execution management](https://arxiv.org/abs/2204.11328). Achieving a synergetic combination between AI and PM poses foundational, conceptual, and technical challenges related to the integration of symbolic and sub-symbolic AI techniques, and how to infuse them within PM. At the same time, delegating autonomy brings pressing requirements on the trustworthiness of such systems, and on their ability to interact with human experts and explain their own behavior. 
+Semi-autonomous digital apprentices are a new type of digital assistant or digital worker that can make decisions and take actions with a certain degree of autonomy. Such assistants are implemented using a combination of natural language processing (NLP), conversational AI, robotic process automation, digital process automation, and business rules. The development and integration of all these functions can often present a challenge and require the expertise of professional developers. This in turn results in high lifecycle costs, limiting their implementation to areas with a clear return on investment.
 
 {: style="text-align: justify"}
-This workshop aims at bringing together researchers from different research disciplines to promote the synergy between AI and PM to address the above frontier challenges. The AI community at IJCAI and AAAI has hosted, as the birthplace of the early revolution of AI, some early events dedicated to business processes (Gamble 1998[^3]; Drabble and Jarvis 1999[^4]). And yet, the business process community has, over the years, drifted apart and found their separate home in the International Conference on Business Process Management (BPM) and, more recently, the International Process Mining Conference (ICPM). This landscape, however, is set to change, as AI techniques mature and become deployed with increasing fidelity and robustness required for enterprise applications. We can see this changing landscape manifested in recent workshops and events, such as, AAAI 2020 hosting its first-ever workshop on Intelligent Process Automation (IPA 2020), AAAI President Yolanda Gil’s talk at the AAAI 2020 Presidential Address (Gil 2020[^5]), and the [1st PMAI@IJCAI 2022](https://ceur-ws.org/Vol-3310/) workshop in previous year. AAAI 2023 also features the [AI4BPM bridge program](https://ai4bpm.com/), catering a rich collection of invited speakers, poster sessions, tutorials, and hands-on system demonstrations. The PMAI workshop nicely complements it with a significant research emphasis towards the vision of ABPMS and Autonomous Enterprises.
+Recent advancements in AI, specifically in the areas of transformers, large language models, general AI, multi-modal representations, and generative models (e.g., ChatGPT, Codex, and Adept.AI), have led to remarkable capabilities in natural language, conversation, image, code, and digital interaction AI tasks. These advancements are poised to revolutionize the field of digital assistants in the workplace. As assistants become smarter and better able to understand human work, they could potentially assist human workers in a much wider range of business tasks while also becoming more autonomous. 
 
 {: style="text-align: justify"}
-We welcome scientists, practitioners, and students from academic and industrial communities who are interested in the synergy between AI and PM, to participate and submit their original work. We welcome not only contributions that empower PM with AI techniques, but also contributions that exploit their combination to solve more general problems in AI.
+However, in order for enterprises to fully harness and adopt these advancements, end-users --- i.e., users who do not have programming background --- have to also be able to effectively teach  and supervise these assistants. 
+This motivates the development of \textbf{no-code digital apprentices (NCDA)}, where humans are the supervisor and machines are the apprentices. 
+The supervisor must guide, validate and teach the apprentice, who in turn must communicate its learning, be capable of identifying when it is not properly trained on some task, and seek guidance from the supervisor when exceptions occur. NCDA places the focus on key required changes that must take place in both the AI technology and human factors to facilitate this kind of interaction.
+Furthermore, NCDA also brings in another challenge: how to adapt modern AI techniques in the context of NCDA? 
+That is, while the underlying transformer-based models and diffusion models receive a lot of attention, less is understood in both industry and academia about the required changes in both technology and human-to-machine aspects to enable the successful adoption of NCDA.
 
-[^3]: Gamble, R. 1998. Proceedings of the AAAI 1998 Workshop on Using AI for Knowledge Management and Business Process Re-engineering.
-[^4]: Drabble, B.; and Jarvis, P. 1999. Proceedings of the AAAI1999 Workshop on Agent-Based Systems in the Business Context.
-[^5]: Gil, Y. 2020. Will AI write the scientific papers of the future?
+
+{: style="text-align: justify"}
+The goal of this workshop is to bring together researchers from various disciplines, including programming languages, natural language processing, computer vision, knowledge representation, planning, human-computer interaction, and business process management, to chart a cross-disciplinary research agenda that will guide future work in the field of NCDAs and the revolution that AI brings to it.
+
+{: style="text-align: justify"}
+We welcome scientists, practitioners, and students, from academia and industry, who are passionate about the various directions in which AI may revolutionize the no-code automation field, to participate and to submit their original work. We welcome not only contributions that empower NCDA with AI algorithms, but also contributions that exploit their combination to solve more general problems in AI.
+
+
+...Rsearchers from various communities, including AAAI, IUI, UIST, CHI ICSE, OOPSLA, ACL, EMNLP, ICLR, VL/HCC, and PLDI.
+
+
 
