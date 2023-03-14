@@ -23,7 +23,7 @@ Topics of interest for submission include, but are not limited to:
 - Human-in-the-loop AI, human-AI collaboration, human-centered AI
 - Training and feedback approaches in support of end-user customization of work  
 - Program generation and validation techniques (e.g, program synthesis)
-- Training and supervision methods 
+- Training and supervision methods
 
 ## Submission Details
 
