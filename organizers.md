@@ -9,8 +9,10 @@ title: Organizers
 - [Xinyu Wang](mailto:xwangsd@umich.edu) - University of Michigan, USA
 - [Ronen Brafman](mailto:antonella.guzzo@unical.it) -  Ben-Gurion University, Israel
 
-# PC Chair
+
+### PC Chair
 - [Chenglong Wang](mailto:chenglong.wang@microsoft.com) - Microsoft Research. Redmond, USA
+
 
 ## Program Committee (tentative)
 - Rishabh Singh (Google Brain)  
