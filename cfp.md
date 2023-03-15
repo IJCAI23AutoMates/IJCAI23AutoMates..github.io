@@ -12,8 +12,8 @@ title: Call for Papers
 | Camera Ready              | TBD                      |
 
 Topics of interest for submission include, but are not limited to:
-- No-code-low-code teaching methods 
-- AI for digital apprentice 
+- No-code-low-code teaching methods
+- AI for digital apprentice
 - Novel AI approaches for digital automation and robotic process automation
 - Natural language for digital interaction and action transformers
 - Multi-modal-based semantic representation of UI actions
@@ -24,6 +24,7 @@ Topics of interest for submission include, but are not limited to:
 - Training and feedback approaches in support of end-user customization of work  
 - Program generation and validation techniques (e.g, program synthesis)
 - Training and supervision methods
+- AI teammate
 
 ## Submission Details
 
