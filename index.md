@@ -22,10 +22,7 @@ That is, while the underlying transformer-based models and diffusion models rece
 The goal of this workshop is to bring together researchers from various disciplines, including programming languages, natural language processing, computer vision, knowledge representation, planning, human-computer interaction, and business process management, to chart a cross-disciplinary research agenda that will guide future work in the field of NCDAs and the revolution that AI brings to it.
 
 {: style="text-align: justify"}
-We welcome scientists, practitioners, and students, from academia and industry, who are passionate about the various directions in which AI may revolutionize the no-code automation field, to participate and to submit their original work. We welcome not only contributions that empower NCDA with AI algorithms, but also contributions that exploit their combination to solve more general problems in AI.
-
-
-...Rsearchers from various communities, including AAAI, IUI, UIST, CHI ICSE, OOPSLA, ACL, EMNLP, ICLR, VL/HCC, and PLDI.
+We welcome scientists, practitioners, and students, from academia and industry, who are passionate about the various directions in which AI may revolutionize the no-code automation field, to participate and to submit their original work. We welcome not only contributions that empower NCDA with AI algorithms, but also contributions that exploit their combination to solve more general problems in AI. The workshop also aims to attract people from research-oriented industrial divisions such as Microsoft Research, Google Research, IBM Research, Adept.ai, and intelligence automation vendors such as UiPath and Automation Anywhere. Researchers from various communities, including AAAI, IUI, UIST, CHI, ICSE, OOPSLA, ACL, EMNLP, ICLR, VL/HCC, and PLDI...  
 
 
 
