@@ -28,7 +28,7 @@ Topics of interest for submission include, but are not limited to:
 
 ## Submission Details
 
-Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF and submitted via [EasyChair]().
+Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF and submitted via [EasyChair](https://easychair.org/my/welcome).
 
 An Overleaf template for LaTeX users is available [here](https://www.overleaf.com/read/gwhxnqcghhdt). Alternatively, you can [download](https://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files for both LaTeX and MS-Word.
 
@@ -41,7 +41,7 @@ There are two submission formats:
 
 All accepted papers are expected to be presented at the conference and **at least one author of each accepted paper _must_ travel to the IJCAI venue in person. Multiple submissions of the same paper to other IJCAI workshops are forbidden.**
 
-Submissions should be single blind so the names of the authors will be visible to the reviewers and should be indicated on the submitted files. In justified cases, if you wish your submission to be handled anonymously (i.e., double-blind) please send us an [e-mail](mailto:liorli@il.ibm.com) explaining the reasons. You will receive instructions on how to proceed.
+Submissions should be single blind so the names of the authors will be visible to the reviewers and should be indicated on the submitted files. In justified cases, if you wish your submission to be handled anonymously (i.e., double-blind) please send us an [e-mail](mailto:segev.shlomov1@ibm.com) explaining the reasons. You will receive instructions on how to proceed.
 
 ## Camera Ready Preparation
 
