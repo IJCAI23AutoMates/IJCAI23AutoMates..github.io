@@ -12,19 +12,19 @@ title: Call for Papers
 | Camera Ready              | TBD                      |
 
 Topics of interest for submission include, but are not limited to:
-- No-code-low-code teaching methods
-- AI for digital apprentice
+- Teaching methods for no-code/low-code users
+- AI for digital apprentices
 - Novel AI approaches for digital automation and robotic process automation
-- Natural language for digital interaction and action transformers
+- Natural language processing for digital interaction and action transformers
 - Multi-modal-based semantic representation of UI actions
 - Multi-modal-based interfaces and human-computer interaction with digital apprentices
-- Prompt- and dialog-based specification of tasks
-- End-user programming, validation, and supervision of AI-based automation systems  
-- Human-in-the-loop AI, human-AI collaboration, human-centered AI
-- Training and feedback approaches in support of end-user customization of work  
-- Program generation and validation techniques (e.g, program synthesis)
+- Specification of tasks using prompts and dialogue
+- End-user programming, validation, and supervision of AI-based automation systems
+- Human-in-the-loop AI, human-AI collaboration, and human-centered AI
+- Training and feedback approaches to support end-user customization of work
+- Program generation and validation techniques, such as program synthesis
 - Training and supervision methods
-- AI teammate
+- AI as a teammate, and digital labor
 
 ## Submission Details
 
@@ -32,12 +32,12 @@ Submissions must be written in English, prepared using the new CEUR-ART 1-column
 
 An Overleaf template for LaTeX users is available [here](https://www.overleaf.com/read/gwhxnqcghhdt). Alternatively, you can [download](https://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files for both LaTeX and MS-Word.
 
-PMAI 2023 invites submissions of research, industry and application contributions as well as software demonstrations.
+Auto-Mates 2023 invites submissions of research, industry and application contributions as well as software demonstrations.
 
 There are two submission formats:
 
-- _Regular papers_ (11-12 pages including an appropriate number of references): must contain enough substance that they can be cited in other publications and may not have appeared before.
-- _Extended Abstracts_ (2-4 pages including an appropriate number of references): results and ideas of interest to the PMAI audience, including position papers, system and application descriptions and presentations of preliminary results, overview of papers accepted at another conference or which you submitted or plan to submit to another conference. In the latter case, extended abstracts must clearly state the venue where the paper has been accepted or submitted alongside its status.
+- _Regular papers_ (11-12) pages including an appropriate number of references): must contain enough substance that they can be cited in other publications and may not have appeared before.
+- _Extended Abstracts_ (2-4) pages including an appropriate number of references): results and ideas of interest to the Auto-Mates audience, including position papers, system and application descriptions and presentations of preliminary results, overview of papers accepted at another conference or which you submitted or plan to submit to another conference. In the latter case, extended abstracts must clearly state the venue where the paper has been accepted or submitted alongside its status.
 
 All accepted papers are expected to be presented at the conference and **at least one author of each accepted paper _must_ travel to the IJCAI venue in person. Multiple submissions of the same paper to other IJCAI workshops are forbidden.**
 
