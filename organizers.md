@@ -13,8 +13,11 @@ title: Organizers
 
 
 
-## Program Committee (tentative)
-- Rishabh Singh (Google Brain)  
+## Program Committee  
+
+Under construction.  Please check back again soon for updates
+
+<!-- - Rishabh Singh (Google Brain)  
 - Alex Polozov (Google X)  
 - Swarat Chadhuri (UT Austin)  
 - Eran Yahav (Technion)  
@@ -34,3 +37,4 @@ title: Organizers
 - Rotem Dror (University of Pennsylvania)  
 - Jiani Huang (University of Pennsylvania)  
 - Lior Limonad (IBM Research)
+ -->
