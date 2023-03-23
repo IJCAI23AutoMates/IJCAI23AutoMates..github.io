@@ -4,6 +4,8 @@ title: Auto-Mates @IJCAI23
 ---
 # The First International Workshop on the Future of No-Code Digital Apprentices
 
+## 19th-25th August 2023 Macao, S.A.R
+
 {: style="text-align: justify"} 
 Semi-autonomous digital apprentices are a novel category of digital assistants or workers capable of making decisions and taking actions with a certain level of autonomy. These assistants rely on a combination of advanced technologies, including natural language processing (NLP), conversational AI, robotic process automation, digital process automation, and business rules to function effectively. However, integrating and developing these features can be a challenging task that requires the expertise of professional developers, leading to high lifecycle costs that limit their implementation to areas with clear returns on investment.
 
