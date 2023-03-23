@@ -2,9 +2,11 @@
 layout: home
 title: Auto-Mates @IJCAI23
 ---
-# The First International Workshop on the Future of No-Code Digital Apprentices
 
-## 19th-25th August 2023 Macao, S.A.R
+### 19th-25th August 2023 Macao, S.A.R
+
+
+# The First International Workshop on the Future of No-Code Digital Apprentices
 
 
 {: style="text-align: justify"} 
