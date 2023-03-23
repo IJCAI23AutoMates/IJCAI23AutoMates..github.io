@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: ""
-    subtitle: ""
+    title: "The First International Workshop on the Future of No-Code Digital Apprentices"
+    subtitle: "19th-25th August 2023 Macao, S.A.R"
     text: 
     # button: Tell Me More
     buttonlink: "#services"
