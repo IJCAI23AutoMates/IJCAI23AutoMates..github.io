@@ -129,7 +129,7 @@ keywords: "automates,nocode,automation,ijcai,workshop"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1CB4AB"
+# navbar-col: "#1CB4AB"
 navbar-text-col: "#FAEA1E"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
