@@ -15,10 +15,10 @@ en: &DEFAULT_EN
       section: call_for_paper
     - title: "Submission"
       section: submitdetails
-    - title: "Program"
-      section: submitdetails
     - title: "Keynote"
       section: keynote
+    - title: "Program"
+      section: program
     - title: "Organizers"
       section: team
 en-US:
