@@ -97,7 +97,19 @@ en: &DEFAULT_EN
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
-
+  keynote:
+    title: "Keynote"
+    text: ""
+    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: keynote
+    people:
+      - name: "TBD"
+        role: "TBD @ TBD"
+        email: tbd@tbd.com
+        # image: assets/img/team/avi.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   team:
     title: "Organizers"
     text: ""
