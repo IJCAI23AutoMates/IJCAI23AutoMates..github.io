@@ -121,14 +121,14 @@ en: &DEFAULT_EN
         email: aviy@il.ibm.com
         # image: assets/img/team/avi.png
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/aviyaeli/
             icon: fab fa-linkedin-in
       - name: "Dr. Segev Shlomov"
         role: "AI research scientist @ IBM Research"
         email: "Segev.Shlomov1@ibm.com"
         # image: assets/img/team/segev.png
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/segev-shlomov/
             icon: fab fa-linkedin-in
       - name: "Dr. Chenglong Wang"
         role: "Microsoft Research. Redmond, USA"
@@ -142,14 +142,14 @@ en: &DEFAULT_EN
         email: "brafman@bgu.ac.il"
         # image: assets/img/team/500x500.jpg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/ronen-brafman-82071/
             icon: fab fa-linkedin-in     
       - name: "Professor Xinyu Wang"
         role: "University of Michigan, USA."
         email: "xwangsd@umich.edu"
         # image: assets/img/team/xinyu.png
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/xinyu-wang-b4849858/
             icon: fab fa-linkedin-in     
   contact:
     title: "Contact Us"
