@@ -116,41 +116,41 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Dr. Segev Shlomov"
-        role: "AI research scientist @ IBM Research"
-        email: "Segev.Shlomov1@ibm.com"
-        # image: assets/img/team/segev.png
-        social:
-          - url: https://www.linkedin.com/in/segev-shlomov/
-            icon: fab fa-linkedin-in
       - name: "Avi Yaeli"
         role: "Research scientist @ IBM Research"
         email: aviy@il.ibm.com
         # image: assets/img/team/avi.png
         social:
-          - url: https://www.linkedin.com/in/aviyaeli/
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Dr. Segev Shlomov"
+        role: "AI research scientist @ IBM Research"
+        email: "Segev.Shlomov1@ibm.com"
+        # image: assets/img/team/segev.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Dr. Chenglong Wang"
+        role: "Microsoft Research. Redmond, USA"
+        email: "chenglong.wang@microsoft.com"
+        # image: assets/img/team/sami.png
+        social:
+          - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Full professor Ronen Brafman"
         role: "Ben-Gurion University, Israel"
         email: "brafman@bgu.ac.il"
         # image: assets/img/team/500x500.jpg
         social:
-          - url: https://www.linkedin.com/in/ronen-brafman-82071/
+          - url: https://linkedin.com
             icon: fab fa-linkedin-in     
       - name: "Professor Xinyu Wang"
         role: "University of Michigan, USA."
         email: "xwangsd@umich.edu"
         # image: assets/img/team/xinyu.png
         social:
-          - url: https://www.linkedin.com/in/xinyu-wang-b4849858/
-            icon: fab fa-linkedin-in
-      - name: "Dr. Chenglong Wang"
-            role: "Microsoft Research. Redmond, USA"
-            email: "chenglong.wang@microsoft.com"
-            # image: assets/img/team/sami.png
-            social:
-              - url: https://linkedin.com
-                icon: fab fa-linkedin-in
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in     
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
