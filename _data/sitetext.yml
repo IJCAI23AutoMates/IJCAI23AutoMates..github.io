@@ -110,19 +110,19 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "TBD"
+        role: "TBD @ TBD"
+        email: tbd@tbd.com
+        # image: assets/img/team/avi.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   team:
     title: "Organizers"
     text: ""
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Avi Yaeli"
-        role: "Research scientist @ IBM Research"
-        email: aviy@il.ibm.com
-        # image: assets/img/team/avi.png
-        social:
-          - url: https://www.linkedin.com/in/aviyaeli/
-            icon: fab fa-linkedin-in
       - name: "Dr. Segev Shlomov"
         role: "AI research scientist @ IBM Research"
         email: "Segev.Shlomov1@ibm.com"
@@ -130,12 +130,12 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/segev-shlomov/
             icon: fab fa-linkedin-in
-      - name: "Dr. Chenglong Wang"
-        role: "Microsoft Research. Redmond, USA"
-        email: "chenglong.wang@microsoft.com"
-        # image: assets/img/team/sami.png
+      - name: "Avi Yaeli"
+        role: "Research scientist @ IBM Research"
+        email: aviy@il.ibm.com
+        # image: assets/img/team/avi.png
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/aviyaeli/
             icon: fab fa-linkedin-in
       - name: "Full professor Ronen Brafman"
         role: "Ben-Gurion University, Israel"
@@ -150,7 +150,14 @@ en: &DEFAULT_EN
         # image: assets/img/team/xinyu.png
         social:
           - url: https://www.linkedin.com/in/xinyu-wang-b4849858/
-            icon: fab fa-linkedin-in     
+            icon: fab fa-linkedin-in
+      - name: "Dr. Chenglong Wang"
+        role: "Microsoft Research. Redmond, USA"
+        email: "chenglong.wang@microsoft.com"
+        # image: assets/img/team/sami.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"

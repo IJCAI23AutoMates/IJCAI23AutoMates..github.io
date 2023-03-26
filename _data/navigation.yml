@@ -13,12 +13,12 @@ en: &DEFAULT_EN
   nav:
     - title: "Call For Papers"
       section: call_for_paper
-    - title: "Program"
-      section: program
-    - title: "Keynote"
-      section: keynote
     - title: "Submission"
       section: submitdetails
+    - title: "Program"
+      section: submitdetails
+    - title: "Keynote"
+      section: keynote
     - title: "Organizers"
       section: team
 en-US:
