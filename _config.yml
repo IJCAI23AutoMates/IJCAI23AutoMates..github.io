@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Auto-Mates @IJCAI23
 email      :  #this is also the email contact forms will go to
-description: "Site description"
+description: "The First International Workshop on the Future of No-Code Digital Apprentices"
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
