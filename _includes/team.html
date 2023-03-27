@@ -10,12 +10,12 @@
   </div>
 	<div class="row">
 	<div class="col-md-4 text-left">
-	  <h3 class="section-heading text-uppercase"> Program Chairs</h3>
+	  <h3 class="section-heading"> Program Chairs</h3>
 	</div>
   </div>
   <div class="row d-flex justify-content-center">
   {% for person in site.data.sitetext[site.locale].team.people %}
-	<div class="col-sm-8">
+	<div class="col-sm-16">
 	  <div class="team-member">
 		<!-- <img class="mx-auto rounded-circle" src="{{ person.image }}" alt=""> -->
 		<h4>{{ person.name }}</h4>
@@ -55,7 +55,7 @@
 	  </div>
 	  <div class="row d-flex justify-content-center">
 	  {% for person in site.data.sitetext.team.people %}
-		<div class="col-sm-8">
+		<div class="col-sm-12">
 		  <div class="team-member">
 			<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 			<h4>{{ person.name }}</h4>
