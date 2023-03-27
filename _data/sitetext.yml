@@ -118,7 +118,12 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
   team:
-    title: "Organizers"
+    pcs:
+    - name: "Lior Limonad - IBM Research"
+    - name: "TBD 1"
+    - name: "TBD 2"
+
+    title: "Program Chairs"
     text: ""
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -130,7 +135,7 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/segev-shlomov/
             icon: fab fa-linkedin-in
-      - name: "Avi Yaeli"
+      - name: "Mr. Avi Yaeli"
         role: "Research scientist @ IBM Research"
         email: aviy@il.ibm.com
         # image: assets/img/team/avi.png

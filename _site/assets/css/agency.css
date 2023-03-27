@@ -170,6 +170,10 @@ table td {
   background-color: #dcefff;
 }
 
+body {
+  font-size: 1.1rem !important;
+}
+
 ul li {
   padding-bottom: 6px;
 }
