@@ -142,14 +142,14 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/aviyaeli/
             icon: fab fa-linkedin-in
-      - name: "Full professor Ronen Brafman"
+      - name: "Full Prof. Ronen Brafman"
         role: "Ben-Gurion University, Israel"
         email: "brafman@bgu.ac.il"
         # image: assets/img/team/500x500.jpg
         social:
           - url: https://www.linkedin.com/in/ronen-brafman-82071/
             icon: fab fa-linkedin-in     
-      - name: "Professor Xinyu Wang"
+      - name: "Prof. Xinyu Wang"
         role: "University of Michigan, USA."
         email: "xwangsd@umich.edu"
         # image: assets/img/team/xinyu.png
