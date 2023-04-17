@@ -119,9 +119,19 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
   team:
     pcs:
-    - name: "Lior Limonad - IBM Research"
-    - name: "TBD 1"
-    - name: "TBD 2"
+    - name: "Jose	Cambronero - Massachusetts Institute of Technology"
+    - name: "Rotem	Dror - University of Pennsylvania"
+    - name: "Nadia	Polikarpova	- University of California San Diego"
+    - name: "Eran	Yahav	- Technion"
+    - name: "Rui	Dong - University of Michigan"
+    - name: "Xinyun	Chen - Google"
+    - name: "Sergey	Zeltyn - IBM"
+    - name: "Yan Chen - University of Toronto"
+    - name: "Yanju Chen - University of California, Santa Barbara	"
+    - name: "Lior	Limonad - IBM Research, Haifa"
+    - name: "Jiani	Huang - University of Pennsylvania"
+
+    
 
     title: "Program Chairs"
     text: ""
