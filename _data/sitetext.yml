@@ -103,10 +103,10 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: keynote
     people:
-      - name: "TBD"
-        role: "TBD @ TBD"
-        email: tbd@tbd.com
-        # image: assets/img/team/avi.png
+      - name: "Martin Hirzel"
+        role: "A researcher and the manager of the AI Programming Models team at IBM Research"
+        email: "Martin's research interests include low-code programming, AI for code, and automated machine learning. Martin's papers won awards at several conferences and he is an ACM Distinguished Scientist."
+        image: assets/img/team/martin.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
