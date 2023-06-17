@@ -105,7 +105,7 @@ en: &DEFAULT_EN
     people:
       - name: "Martin Hirzel"
         role: "A researcher and the manager of the AI Programming Models team at IBM Research"
-        bio: "Martin's research interests include low-code programming, AI for code, and automated machine learning. Martin's papers won awards at several conferences and he is an ACM Distinguished Scientist."
+        # bio: "Martin's research interests include low-code programming, AI for code, and automated machine learning. Martin's papers won awards at several conferences and he is an ACM Distinguished Scientist."
         email: ""
         image: assets/img/team/martin.png
         # social:
@@ -114,10 +114,10 @@ en: &DEFAULT_EN
       - name: "Shen Jiasi"
         role: "Assistant Professor at HKUST in the CSE Department working on
 programming languages and software engineering"
-        bio: "Jiasi aims to improve software development by automating tasks that
-currently require substantial manual engineering effort. Her research
-focuses on developing automatic techniques that analyze, manipulate, and
-transform software."
+        # bio: "Jiasi aims to improve software development by automating tasks that
+# currently require substantial manual engineering effort. Her research
+# focuses on developing automatic techniques that analyze, manipulate, and
+# transform software."
         email: ""
         image: assets/img/team/jiasi.png
         # social:
