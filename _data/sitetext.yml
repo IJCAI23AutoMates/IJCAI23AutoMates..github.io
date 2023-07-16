@@ -104,8 +104,7 @@ en: &DEFAULT_EN
     section: keynote
     people:
       - name: "Martin Hirzel"
-        role: "A researcher and the manager of the AI Programming Models team at IBM Research"
-        # bio: "Martin's research interests include low-code programming, AI for code, and automated machine learning. Martin's papers won awards at several conferences and he is an ACM Distinguished Scientist."
+        role: "Traditionally, computer programming has been the prerogative of professional developers using textual programming languages such as C, Java, or Python.  Low-code programming promises an alternative: letting citizen developers create programs using visual abstractions, demonstrations, or natural language.  This talk begins by reviewing low-code literature from various research fields, explaining how techniques work while providing a unified point of view.  Next, this talk provides a deep-dive into low-code for automating digital labor, especially for invoking APIs and for specifying APIs in a way that makes them easier to invoke.  Low-code can help more people leverage recent advances in foundation models to become more productive and less dependent on scarce professional software developers."
         email: ""
         image: assets/img/team/martin.png
         # social:
