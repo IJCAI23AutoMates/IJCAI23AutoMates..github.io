@@ -111,8 +111,16 @@ en: &DEFAULT_EN
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
       - name: "Shen Jiasi"
-        role: "Assistant Professor at HKUST in the CSE Department working on
-programming languages and software engineering"
+        role: "Software now plays a central role in numerous aspects of human society. 
+Current software development practices involve significant developer 
+effort in all phases of the software life cycle, including the 
+development of new software, detection, and elimination of defects and 
+security vulnerabilities in existing software, maintenance of legacy 
+software, and integration of existing software into more contexts, with 
+the quality of the resulting software still leaving much to be desired. 
+This talk provides a general overview of how programming languages 
+research addresses these challenges and discusses how AI research can help.
+"
         # bio: "Jiasi aims to improve software development by automating tasks that
 # currently require substantial manual engineering effort. Her research
 # focuses on developing automatic techniques that analyze, manipulate, and
