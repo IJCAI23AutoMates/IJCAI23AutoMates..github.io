@@ -105,7 +105,7 @@ en: &DEFAULT_EN
     people:
       - name: "Martin Hirzel"
         role: "Traditionally, computer programming has been the prerogative of professional developers using textual programming languages such as C, Java, or Python.  Low-code programming promises an alternative: letting citizen developers create programs using visual abstractions, demonstrations, or natural language.  This talk begins by reviewing low-code literature from various research fields, explaining how techniques work while providing a unified point of view.  Next, this talk provides a deep-dive into low-code for automating digital labor, especially for invoking APIs and for specifying APIs in a way that makes them easier to invoke.  Low-code can help more people leverage recent advances in foundation models to become more productive and less dependent on scarce professional software developers."
-        email: ""
+        email: "http://hirzels.com/martin/"
         image: assets/img/team/martin.png
         social:
           - url: http://hirzels.com/martin/
